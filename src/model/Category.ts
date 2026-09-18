@@ -103,5 +103,5 @@ export default {
     create,
     update,
     remove,
-    searchByKeyword
+    searchByKeyword,
 }
