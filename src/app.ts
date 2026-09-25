@@ -1,5 +1,4 @@
 import express from "express";
-import Category from "./model/Category.js";
 import Product from "./model/Product.js";
 import categoryRoutes from "./routes/categoryRoutes.js";
 
